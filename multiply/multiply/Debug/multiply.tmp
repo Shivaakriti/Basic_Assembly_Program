@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\multiply.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\Debug/multiply.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>multiply.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>multiply.map</FILE>
+  <FILE>multiply.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <label><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\multiply.asm</FILE><LINE>7</LINE></label>
+  <label1><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\multiply.asm</FILE><LINE>12</LINE></label1>
+  <end><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\multiply\multiply\multiply.asm</FILE><LINE>12</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>

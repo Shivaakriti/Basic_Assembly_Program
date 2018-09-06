@@ -1,0 +1,27 @@
+﻿------ Build started: Project: 16mul_without_mul, Configuration: Debug AVR ------
+Build started.
+Project "16mul_without_mul.asmproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Atmel Studio 6.2\Vs\Assembler.targets" from project "C:\Users\DESD\Documents\Atmel Studio\6.2\16mul_without_mul\16mul_without_mul\16mul_without_mul.asmproj" (target "Build" depends on it):
+	Task "RunAssemblerTask"
+		C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\avrasm2.exe -fI -o "16mul_without_mul.hex"  -m "16mul_without_mul.map"  -l "16mul_without_mul.lss"  -S "16mul_without_mul.tmp"  -W+ie -im128def.inc -d "C:\Users\DESD\Documents\Atmel Studio\6.2\16mul_without_mul\16mul_without_mul\Debug/16mul_without_mul.obj"  "C:\Users\DESD\Documents\Atmel Studio\6.2\16mul_without_mul\16mul_without_mul\16mul_without_mul.asm"  -I "C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include" 
+		AVRASM: AVR macro assembler 2.1.57 (build 16 Aug 27 2014 16:39:43)
+		Copyright (C) 1995-2014 ATMEL Corporation
+		[builtin](2): Including file 'C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m128def.inc'
+		C:\Users\DESD\Documents\Atmel Studio\6.2\16mul_without_mul\16mul_without_mul\16mul_without_mul.asm(1): Including file 'C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m128def.inc'
+		"ATmega128" memory use summary [bytes]:
+		Segment   Begin    End      Code   Data   Used    Size   Use%
+		---------------------------------------------------------------
+		[.cseg] 0x000000 0x000058     88      0     88  131072   0.1%
+		[.dseg] 0x000100 0x000100      0      0      0    4096   0.0%
+		[.eseg] 0x000000 0x000000      0      0      0    4096   0.0%
+		Assembly complete, 0 errors. 0 warnings
+	Done executing task "RunAssemblerTask".
+Done building target "CoreBuild" in project "16mul_without_mul.asmproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Atmel Studio 6.2\Vs\Avr.common.targets" from project "C:\Users\DESD\Documents\Atmel Studio\6.2\16mul_without_mul\16mul_without_mul\16mul_without_mul.asmproj" (entry point):
+Done building target "Build" in project "16mul_without_mul.asmproj".
+Done building project "16mul_without_mul.asmproj".
+
+Build succeeded.
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

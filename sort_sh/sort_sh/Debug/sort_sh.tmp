@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\sort_sh.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\Debug/sort_sh.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>sort_sh.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>sort_sh.map</FILE>
+  <FILE>sort_sh.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <outercounter><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\sort_sh.asm</FILE><LINE>8</LINE></outercounter>
+  <innercounter><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\sort_sh.asm</FILE><LINE>11</LINE></innercounter>
+  <notswap><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\sort_sh.asm</FILE><LINE>18</LINE></notswap>
+  <end><FILE>C:\Users\DESD\Documents\Atmel Studio\6.2\sort_sh\sort_sh\sort_sh.asm</FILE><LINE>24</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
